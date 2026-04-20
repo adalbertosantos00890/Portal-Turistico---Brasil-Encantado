@@ -8,4 +8,4 @@ Este projeto foi desenvolvido com o objetivo de criar um site turístico sobre d
 - Adalberto Santos da Silva
 
 ## Link do site
-(coloca aqui o link do GitHub Pages)
+https://adalbertosantos00890.github.io/Portal-Turistico---Brasil-Encantado/
